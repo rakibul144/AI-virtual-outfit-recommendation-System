@@ -1,0 +1,1001 @@
+id,gender,occasion,weather,color,style
+1,male,wedding,cool,bright,sherwani
+2,male,sport,warm,neutral,track suit
+3,female,sport,cool,neutral,t-shirt & shorts
+4,male,sport,hot,light,track suit
+5,female,formal,warm,bright,blazer & skirt
+6,male,wedding,cool,light,formal suit
+7,male,party,hot,neutral,jacket & pants
+8,female,sport,warm,bright,track suit
+9,male,sport,cool,light,track suit
+10,male,casual,cold,light,t-shirt & jeans
+11,male,formal,hot,dark,shirt & trousers
+12,female,casual,warm,light,top & skirt
+13,male,party,warm,dark,printed shirt & chinos
+14,female,sport,cold,neutral,t-shirt & shorts
+15,female,formal,hot,light,blazer & skirt
+16,male,casual,warm,dark,t-shirt & jeans
+17,male,wedding,cold,neutral,formal suit
+18,male,party,cold,bright,printed shirt & chinos
+19,female,sport,cool,light,t-shirt & shorts
+20,female,party,cold,dark,party dress
+21,male,wedding,cold,bright,sherwani
+22,male,wedding,cold,bright,formal suit
+23,male,formal,cool,dark,suit
+24,male,casual,cool,dark,t-shirt & jeans
+25,female,casual,hot,bright,kurti & leggings
+26,female,party,cold,dark,party dress
+27,male,sport,cold,bright,jersey & shorts
+28,male,sport,cold,neutral,jersey & shorts
+29,female,casual,warm,dark,top & skirt
+30,female,sport,cold,light,track suit
+31,male,party,warm,bright,jacket & pants
+32,female,casual,hot,light,top & skirt
+33,female,wedding,cool,dark,saree
+34,male,wedding,warm,bright,kurta & churidar
+35,female,wedding,hot,bright,lehenga
+36,female,party,cold,dark,top & jeans
+37,female,formal,warm,light,shirt & trousers
+38,female,formal,cold,light,formal dress
+39,male,sport,warm,dark,t-shirt & joggers
+40,male,party,cool,neutral,shirt & jeans
+41,female,party,hot,dark,party dress
+42,female,casual,cool,neutral,t-shirt & jeans
+43,male,formal,cool,light,suit
+44,male,formal,hot,dark,shirt & trousers
+45,female,casual,hot,neutral,top & skirt
+46,female,party,warm,bright,top & jeans
+47,female,formal,warm,neutral,shirt & trousers
+48,male,wedding,warm,dark,kurta & churidar
+49,female,formal,cool,light,formal dress
+50,female,wedding,cold,light,saree
+51,male,formal,hot,dark,blazer & pants
+52,female,casual,cool,light,t-shirt & jeans
+53,female,wedding,warm,bright,lehenga
+54,male,sport,cold,light,t-shirt & joggers
+55,female,sport,hot,dark,sports bra & leggings
+56,female,formal,warm,light,formal dress
+57,female,sport,cold,bright,t-shirt & shorts
+58,male,formal,cold,light,blazer & pants
+59,male,sport,cold,neutral,jersey & shorts
+60,female,casual,hot,light,kurti & leggings
+61,female,wedding,cool,dark,lehenga
+62,female,sport,cold,light,sports bra & leggings
+63,male,party,warm,light,shirt & jeans
+64,male,formal,cool,neutral,suit
+65,male,sport,cool,bright,t-shirt & joggers
+66,female,casual,cold,bright,t-shirt & jeans
+67,female,sport,warm,light,sports bra & leggings
+68,female,formal,hot,light,blazer & skirt
+69,female,party,cold,dark,party dress
+70,male,formal,cold,neutral,suit
+71,male,casual,cold,dark,shirt & shorts
+72,male,sport,cool,neutral,t-shirt & joggers
+73,male,party,warm,bright,printed shirt & chinos
+74,male,formal,hot,bright,blazer & pants
+75,male,party,warm,light,printed shirt & chinos
+76,female,sport,cool,dark,track suit
+77,male,formal,cool,neutral,shirt & trousers
+78,male,casual,cool,bright,shirt & shorts
+79,male,casual,warm,neutral,shirt & shorts
+80,female,party,cool,light,top & jeans
+81,male,party,warm,bright,printed shirt & chinos
+82,female,casual,cool,dark,t-shirt & jeans
+83,female,party,cool,light,top & jeans
+84,female,casual,cold,light,kurti & leggings
+85,female,sport,cool,light,track suit
+86,male,formal,cold,neutral,suit
+87,male,sport,hot,dark,t-shirt & joggers
+88,male,wedding,hot,neutral,kurta & churidar
+89,male,formal,hot,light,blazer & pants
+90,male,wedding,cool,light,kurta & churidar
+91,male,formal,hot,light,shirt & trousers
+92,female,party,cool,neutral,gown
+93,female,formal,cool,bright,shirt & trousers
+94,female,formal,warm,neutral,shirt & trousers
+95,female,party,warm,bright,top & jeans
+96,male,wedding,cool,light,formal suit
+97,female,sport,warm,light,sports bra & leggings
+98,male,sport,cold,neutral,jersey & shorts
+99,male,casual,cold,light,t-shirt & jeans
+100,male,sport,hot,light,jersey & shorts
+101,male,wedding,hot,light,sherwani
+102,male,sport,hot,dark,jersey & shorts
+103,male,wedding,cool,light,sherwani
+104,female,casual,hot,neutral,kurti & leggings
+105,female,formal,cold,neutral,blazer & skirt
+106,male,sport,cold,bright,jersey & shorts
+107,male,wedding,warm,bright,formal suit
+108,female,wedding,warm,neutral,lehenga
+109,male,sport,warm,bright,track suit
+110,female,casual,warm,bright,t-shirt & jeans
+111,female,formal,hot,bright,formal dress
+112,male,party,hot,neutral,shirt & jeans
+113,female,casual,cold,light,kurti & leggings
+114,female,sport,warm,dark,track suit
+115,female,casual,warm,neutral,t-shirt & jeans
+116,female,sport,hot,dark,track suit
+117,male,wedding,cold,neutral,formal suit
+118,male,party,hot,dark,printed shirt & chinos
+119,male,formal,cool,neutral,shirt & trousers
+120,male,casual,cold,bright,polo & chinos
+121,female,casual,warm,dark,kurti & leggings
+122,female,party,cold,light,top & jeans
+123,female,sport,cool,neutral,sports bra & leggings
+124,male,party,cold,neutral,printed shirt & chinos
+125,male,formal,cool,neutral,suit
+126,male,formal,hot,neutral,shirt & trousers
+127,female,wedding,warm,neutral,lehenga
+128,female,casual,cool,neutral,top & skirt
+129,female,party,hot,neutral,party dress
+130,male,formal,hot,light,suit
+131,male,wedding,cold,neutral,formal suit
+132,female,casual,cold,bright,top & skirt
+133,female,formal,warm,dark,formal dress
+134,female,formal,cool,dark,blazer & skirt
+135,male,casual,cool,bright,polo & chinos
+136,male,casual,hot,light,t-shirt & jeans
+137,male,casual,cold,bright,t-shirt & jeans
+138,male,formal,warm,light,suit
+139,female,casual,hot,light,top & skirt
+140,male,casual,warm,neutral,polo & chinos
+141,male,wedding,cool,bright,formal suit
+142,male,party,cold,dark,jacket & pants
+143,male,formal,hot,neutral,shirt & trousers
+144,female,casual,cold,neutral,top & skirt
+145,female,party,cool,neutral,top & jeans
+146,male,wedding,hot,neutral,sherwani
+147,male,wedding,cool,bright,formal suit
+148,male,sport,cool,bright,track suit
+149,male,wedding,cool,bright,sherwani
+150,male,wedding,hot,light,sherwani
+151,female,formal,cold,light,blazer & skirt
+152,male,party,hot,light,shirt & jeans
+153,male,wedding,hot,bright,kurta & churidar
+154,female,wedding,warm,light,lehenga
+155,male,sport,hot,bright,jersey & shorts
+156,male,casual,hot,light,polo & chinos
+157,male,casual,cool,bright,shirt & shorts
+158,female,sport,cool,bright,track suit
+159,male,formal,cool,light,suit
+160,female,wedding,warm,light,saree
+161,male,sport,warm,light,jersey & shorts
+162,male,formal,warm,light,suit
+163,male,wedding,warm,dark,sherwani
+164,male,formal,warm,bright,suit
+165,female,casual,hot,bright,kurti & leggings
+166,male,casual,cool,neutral,t-shirt & jeans
+167,female,formal,cold,dark,shirt & trousers
+168,male,wedding,cold,dark,kurta & churidar
+169,female,sport,hot,dark,sports bra & leggings
+170,male,casual,cool,dark,polo & chinos
+171,male,party,hot,dark,jacket & pants
+172,male,formal,cool,light,suit
+173,female,casual,warm,bright,kurti & leggings
+174,male,wedding,cold,bright,sherwani
+175,male,sport,cold,light,t-shirt & joggers
+176,male,party,hot,light,jacket & pants
+177,female,party,hot,bright,gown
+178,female,party,cool,dark,top & jeans
+179,male,party,warm,light,printed shirt & chinos
+180,female,party,cold,bright,party dress
+181,female,sport,warm,neutral,sports bra & leggings
+182,male,party,cold,light,printed shirt & chinos
+183,male,formal,cold,neutral,suit
+184,male,wedding,cold,bright,kurta & churidar
+185,female,formal,cool,neutral,formal dress
+186,male,casual,warm,neutral,t-shirt & jeans
+187,male,formal,warm,bright,suit
+188,female,casual,cool,neutral,top & skirt
+189,male,formal,cool,dark,shirt & trousers
+190,female,wedding,warm,light,gown
+191,male,sport,warm,neutral,t-shirt & joggers
+192,female,formal,cold,dark,blazer & skirt
+193,female,casual,cool,light,top & skirt
+194,male,casual,warm,light,shirt & shorts
+195,male,sport,cool,light,jersey & shorts
+196,female,casual,warm,light,t-shirt & jeans
+197,male,wedding,cool,light,formal suit
+198,male,party,cool,bright,jacket & pants
+199,female,casual,hot,light,top & skirt
+200,female,wedding,hot,dark,lehenga
+201,female,casual,cool,neutral,t-shirt & jeans
+202,female,formal,hot,neutral,shirt & trousers
+203,male,formal,warm,light,suit
+204,female,casual,warm,bright,kurti & leggings
+205,male,formal,warm,neutral,suit
+206,female,party,cool,neutral,party dress
+207,male,formal,hot,light,suit
+208,male,casual,cold,bright,polo & chinos
+209,female,party,cool,light,top & jeans
+210,female,casual,hot,dark,t-shirt & jeans
+211,male,wedding,cool,light,kurta & churidar
+212,female,party,cold,light,party dress
+213,female,party,cold,light,top & jeans
+214,male,sport,cold,neutral,t-shirt & joggers
+215,male,sport,cold,neutral,jersey & shorts
+216,female,casual,cold,bright,kurti & leggings
+217,male,casual,cold,bright,shirt & shorts
+218,female,sport,warm,light,sports bra & leggings
+219,male,wedding,cold,light,sherwani
+220,male,formal,cool,light,shirt & trousers
+221,male,formal,cold,bright,blazer & pants
+222,male,sport,hot,light,track suit
+223,male,casual,warm,bright,polo & chinos
+224,male,formal,hot,dark,blazer & pants
+225,female,wedding,warm,neutral,saree
+226,male,wedding,hot,light,formal suit
+227,male,casual,hot,dark,shirt & shorts
+228,female,sport,cold,light,track suit
+229,female,sport,cool,light,t-shirt & shorts
+230,male,sport,cool,neutral,t-shirt & joggers
+231,female,party,cold,bright,top & jeans
+232,female,sport,cool,neutral,sports bra & leggings
+233,male,formal,cool,neutral,suit
+234,male,casual,cool,neutral,polo & chinos
+235,male,sport,cold,light,jersey & shorts
+236,female,casual,cold,neutral,kurti & leggings
+237,female,party,warm,dark,party dress
+238,male,sport,hot,bright,track suit
+239,male,wedding,warm,bright,formal suit
+240,female,sport,hot,bright,sports bra & leggings
+241,female,sport,cool,neutral,t-shirt & shorts
+242,female,casual,cool,bright,top & skirt
+243,male,sport,hot,bright,jersey & shorts
+244,female,party,cool,light,party dress
+245,male,wedding,hot,light,kurta & churidar
+246,male,casual,warm,bright,t-shirt & jeans
+247,female,formal,cold,neutral,shirt & trousers
+248,male,party,cool,neutral,shirt & jeans
+249,male,wedding,hot,bright,sherwani
+250,male,sport,warm,light,track suit
+251,male,formal,warm,bright,blazer & pants
+252,male,casual,warm,bright,t-shirt & jeans
+253,male,sport,cold,neutral,track suit
+254,female,casual,cold,light,kurti & leggings
+255,male,sport,hot,light,jersey & shorts
+256,female,casual,cool,bright,t-shirt & jeans
+257,female,casual,hot,dark,t-shirt & jeans
+258,female,party,cold,bright,top & jeans
+259,male,wedding,warm,dark,kurta & churidar
+260,male,casual,cold,bright,t-shirt & jeans
+261,female,sport,cold,bright,track suit
+262,female,casual,hot,light,top & skirt
+263,female,formal,cold,dark,shirt & trousers
+264,female,wedding,hot,neutral,saree
+265,female,formal,warm,neutral,blazer & skirt
+266,female,sport,hot,neutral,track suit
+267,male,sport,cool,bright,track suit
+268,female,party,hot,bright,gown
+269,female,formal,hot,light,blazer & skirt
+270,male,formal,hot,dark,suit
+271,male,wedding,warm,light,sherwani
+272,male,sport,hot,bright,t-shirt & joggers
+273,male,sport,warm,neutral,track suit
+274,female,sport,warm,dark,sports bra & leggings
+275,male,sport,hot,light,track suit
+276,male,formal,warm,neutral,blazer & pants
+277,male,wedding,cold,light,kurta & churidar
+278,male,wedding,cold,bright,sherwani
+279,male,casual,hot,neutral,shirt & shorts
+280,female,wedding,cold,bright,gown
+281,male,sport,warm,light,jersey & shorts
+282,male,sport,cold,bright,t-shirt & joggers
+283,male,formal,cold,light,shirt & trousers
+284,female,party,hot,bright,gown
+285,female,sport,warm,light,track suit
+286,male,sport,cool,light,jersey & shorts
+287,female,formal,warm,dark,blazer & skirt
+288,female,wedding,warm,light,lehenga
+289,male,sport,warm,bright,t-shirt & joggers
+290,male,party,cold,dark,printed shirt & chinos
+291,male,sport,cool,bright,track suit
+292,female,wedding,warm,light,gown
+293,male,sport,cool,bright,t-shirt & joggers
+294,male,casual,warm,neutral,shirt & shorts
+295,male,wedding,cold,light,kurta & churidar
+296,male,formal,cold,dark,shirt & trousers
+297,female,wedding,cool,bright,saree
+298,female,party,cool,bright,party dress
+299,female,wedding,cool,light,lehenga
+300,male,casual,hot,light,t-shirt & jeans
+301,male,casual,warm,neutral,polo & chinos
+302,male,wedding,cold,bright,formal suit
+303,female,formal,cool,neutral,shirt & trousers
+304,male,formal,warm,light,shirt & trousers
+305,female,sport,warm,bright,t-shirt & shorts
+306,male,wedding,cool,dark,formal suit
+307,male,casual,warm,light,t-shirt & jeans
+308,female,formal,cool,light,shirt & trousers
+309,male,party,cool,bright,shirt & jeans
+310,female,casual,cold,bright,top & skirt
+311,female,sport,warm,neutral,track suit
+312,female,sport,cold,dark,track suit
+313,male,wedding,cool,light,kurta & churidar
+314,female,party,cool,dark,gown
+315,male,wedding,hot,neutral,formal suit
+316,female,wedding,hot,bright,lehenga
+317,female,party,cool,neutral,gown
+318,male,casual,hot,neutral,t-shirt & jeans
+319,female,sport,hot,neutral,t-shirt & shorts
+320,female,casual,hot,dark,kurti & leggings
+321,female,party,cool,bright,top & jeans
+322,male,wedding,hot,light,formal suit
+323,male,wedding,cool,bright,sherwani
+324,male,formal,warm,bright,suit
+325,female,formal,cool,dark,formal dress
+326,female,sport,hot,light,track suit
+327,male,formal,hot,light,shirt & trousers
+328,male,formal,warm,dark,blazer & pants
+329,female,formal,cool,light,blazer & skirt
+330,female,wedding,cool,bright,lehenga
+331,female,party,hot,dark,top & jeans
+332,male,formal,cold,light,suit
+333,female,casual,cool,dark,top & skirt
+334,female,wedding,cool,dark,saree
+335,male,wedding,hot,dark,kurta & churidar
+336,male,wedding,cold,light,kurta & churidar
+337,male,wedding,hot,light,sherwani
+338,male,wedding,warm,bright,formal suit
+339,male,casual,cold,neutral,t-shirt & jeans
+340,male,casual,warm,bright,polo & chinos
+341,male,casual,warm,dark,polo & chinos
+342,female,party,cold,bright,party dress
+343,male,formal,cool,dark,shirt & trousers
+344,male,wedding,cold,bright,kurta & churidar
+345,male,party,cool,bright,jacket & pants
+346,female,formal,cold,light,blazer & skirt
+347,male,party,hot,bright,printed shirt & chinos
+348,male,wedding,hot,bright,kurta & churidar
+349,female,casual,cold,bright,kurti & leggings
+350,male,wedding,cold,light,sherwani
+351,male,wedding,warm,bright,kurta & churidar
+352,female,sport,cold,dark,sports bra & leggings
+353,female,wedding,hot,dark,lehenga
+354,male,party,cold,neutral,jacket & pants
+355,male,formal,cold,dark,blazer & pants
+356,female,party,cold,neutral,gown
+357,female,formal,hot,light,formal dress
+358,female,party,cold,bright,gown
+359,female,wedding,cool,neutral,lehenga
+360,female,sport,hot,dark,track suit
+361,female,sport,cold,neutral,track suit
+362,female,casual,warm,neutral,t-shirt & jeans
+363,female,sport,cold,bright,track suit
+364,female,sport,cold,bright,t-shirt & shorts
+365,male,casual,warm,bright,t-shirt & jeans
+366,female,casual,cold,neutral,top & skirt
+367,female,wedding,cold,neutral,gown
+368,female,casual,cold,bright,kurti & leggings
+369,male,formal,hot,dark,blazer & pants
+370,female,wedding,warm,bright,saree
+371,male,sport,hot,bright,jersey & shorts
+372,male,wedding,warm,bright,formal suit
+373,male,party,cool,neutral,printed shirt & chinos
+374,male,wedding,hot,dark,sherwani
+375,male,wedding,warm,bright,sherwani
+376,male,formal,cool,neutral,shirt & trousers
+377,female,formal,cold,bright,formal dress
+378,male,wedding,cold,neutral,sherwani
+379,female,party,hot,bright,top & jeans
+380,male,sport,cool,light,jersey & shorts
+381,male,wedding,cold,dark,formal suit
+382,female,sport,cool,light,sports bra & leggings
+383,female,wedding,hot,light,gown
+384,female,party,hot,dark,gown
+385,male,sport,cold,light,jersey & shorts
+386,male,casual,cool,light,shirt & shorts
+387,female,sport,cool,dark,track suit
+388,male,formal,cold,light,shirt & trousers
+389,female,party,warm,neutral,party dress
+390,male,party,warm,dark,printed shirt & chinos
+391,male,casual,hot,neutral,t-shirt & jeans
+392,male,sport,hot,neutral,t-shirt & joggers
+393,female,casual,warm,neutral,top & skirt
+394,female,sport,hot,dark,track suit
+395,male,sport,warm,bright,jersey & shorts
+396,male,casual,cold,dark,polo & chinos
+397,male,wedding,cool,dark,sherwani
+398,female,party,cool,neutral,top & jeans
+399,male,party,cold,bright,jacket & pants
+400,female,formal,cool,neutral,shirt & trousers
+401,male,casual,cold,neutral,shirt & shorts
+402,female,sport,cool,neutral,sports bra & leggings
+403,female,formal,warm,neutral,shirt & trousers
+404,male,sport,cool,bright,jersey & shorts
+405,female,formal,cold,bright,shirt & trousers
+406,female,sport,warm,dark,t-shirt & shorts
+407,female,casual,cool,neutral,t-shirt & jeans
+408,male,party,cool,light,printed shirt & chinos
+409,male,sport,cold,dark,t-shirt & joggers
+410,female,party,cool,dark,party dress
+411,female,party,cold,neutral,party dress
+412,male,party,hot,bright,printed shirt & chinos
+413,female,party,hot,neutral,gown
+414,female,formal,cold,bright,formal dress
+415,female,casual,cold,light,kurti & leggings
+416,female,formal,cold,bright,formal dress
+417,male,sport,warm,neutral,jersey & shorts
+418,male,wedding,hot,light,sherwani
+419,male,party,cold,neutral,printed shirt & chinos
+420,male,wedding,cool,bright,formal suit
+421,male,sport,hot,light,t-shirt & joggers
+422,female,party,hot,neutral,top & jeans
+423,male,formal,cold,light,shirt & trousers
+424,female,party,hot,neutral,top & jeans
+425,male,formal,warm,bright,suit
+426,female,wedding,hot,dark,saree
+427,male,party,warm,neutral,printed shirt & chinos
+428,male,casual,hot,light,shirt & shorts
+429,female,party,hot,bright,gown
+430,female,wedding,cold,neutral,lehenga
+431,male,casual,cold,dark,polo & chinos
+432,male,sport,warm,dark,track suit
+433,male,party,warm,neutral,jacket & pants
+434,female,formal,cool,dark,blazer & skirt
+435,male,formal,hot,neutral,blazer & pants
+436,male,wedding,hot,dark,formal suit
+437,female,party,cold,dark,top & jeans
+438,female,casual,hot,dark,kurti & leggings
+439,male,sport,cold,light,t-shirt & joggers
+440,female,wedding,cold,neutral,saree
+441,male,sport,warm,dark,track suit
+442,male,casual,hot,light,shirt & shorts
+443,female,casual,warm,neutral,top & skirt
+444,male,sport,cool,light,t-shirt & joggers
+445,female,casual,cool,dark,kurti & leggings
+446,male,casual,warm,bright,t-shirt & jeans
+447,male,sport,hot,neutral,track suit
+448,female,formal,cool,dark,blazer & skirt
+449,female,sport,hot,bright,t-shirt & shorts
+450,female,sport,cold,dark,t-shirt & shorts
+451,female,wedding,cold,bright,gown
+452,male,party,cold,neutral,printed shirt & chinos
+453,female,formal,cold,neutral,shirt & trousers
+454,female,casual,warm,light,t-shirt & jeans
+455,female,party,cool,light,gown
+456,female,formal,hot,bright,shirt & trousers
+457,female,wedding,warm,dark,saree
+458,male,sport,cool,light,jersey & shorts
+459,male,party,hot,light,printed shirt & chinos
+460,male,casual,cold,bright,polo & chinos
+461,male,casual,hot,dark,polo & chinos
+462,male,wedding,cold,light,sherwani
+463,female,wedding,warm,dark,gown
+464,male,wedding,cool,bright,kurta & churidar
+465,female,formal,cold,dark,formal dress
+466,female,formal,warm,light,shirt & trousers
+467,female,casual,cool,bright,t-shirt & jeans
+468,male,party,cool,bright,shirt & jeans
+469,male,sport,hot,dark,t-shirt & joggers
+470,male,formal,cool,bright,suit
+471,male,casual,warm,light,t-shirt & jeans
+472,female,wedding,hot,bright,saree
+473,female,wedding,cold,bright,gown
+474,female,wedding,warm,dark,saree
+475,female,casual,cool,light,kurti & leggings
+476,female,party,cool,light,party dress
+477,male,party,cold,bright,jacket & pants
+478,female,sport,warm,light,track suit
+479,male,party,warm,bright,printed shirt & chinos
+480,female,casual,cool,bright,t-shirt & jeans
+481,female,casual,cool,neutral,top & skirt
+482,female,party,warm,dark,party dress
+483,male,party,cool,dark,printed shirt & chinos
+484,male,casual,hot,dark,shirt & shorts
+485,female,party,cool,light,gown
+486,female,sport,warm,dark,track suit
+487,female,wedding,warm,neutral,lehenga
+488,male,sport,warm,bright,jersey & shorts
+489,female,casual,warm,neutral,kurti & leggings
+490,female,wedding,cool,light,saree
+491,male,formal,cold,light,blazer & pants
+492,male,casual,warm,neutral,polo & chinos
+493,male,casual,cool,light,shirt & shorts
+494,male,wedding,warm,neutral,kurta & churidar
+495,female,formal,hot,dark,blazer & skirt
+496,female,party,hot,light,gown
+497,female,casual,cold,neutral,kurti & leggings
+498,male,formal,hot,light,shirt & trousers
+499,female,wedding,cold,light,gown
+500,female,wedding,cold,light,saree
+501,female,sport,cold,bright,track suit
+502,female,sport,hot,bright,t-shirt & shorts
+503,female,sport,cool,light,sports bra & leggings
+504,male,sport,cold,light,jersey & shorts
+505,male,wedding,cold,dark,formal suit
+506,female,sport,hot,light,t-shirt & shorts
+507,female,party,cool,neutral,top & jeans
+508,female,sport,warm,light,sports bra & leggings
+509,male,sport,hot,light,jersey & shorts
+510,male,casual,hot,neutral,t-shirt & jeans
+511,male,party,cold,light,jacket & pants
+512,male,sport,cold,light,track suit
+513,male,casual,cool,dark,shirt & shorts
+514,female,casual,warm,neutral,kurti & leggings
+515,male,casual,cold,neutral,polo & chinos
+516,male,sport,warm,bright,jersey & shorts
+517,male,formal,warm,bright,suit
+518,female,sport,hot,bright,track suit
+519,male,casual,hot,dark,shirt & shorts
+520,male,sport,cold,neutral,t-shirt & joggers
+521,male,casual,warm,light,shirt & shorts
+522,male,casual,hot,dark,shirt & shorts
+523,female,sport,warm,neutral,sports bra & leggings
+524,male,casual,hot,neutral,t-shirt & jeans
+525,female,party,cool,bright,top & jeans
+526,female,wedding,cool,bright,lehenga
+527,male,party,cold,bright,jacket & pants
+528,male,wedding,cold,bright,kurta & churidar
+529,male,party,cold,dark,shirt & jeans
+530,male,formal,warm,dark,suit
+531,male,wedding,warm,light,sherwani
+532,male,formal,warm,neutral,blazer & pants
+533,female,wedding,cool,light,lehenga
+534,male,casual,hot,dark,shirt & shorts
+535,female,casual,cool,neutral,top & skirt
+536,male,sport,cold,dark,t-shirt & joggers
+537,male,sport,hot,bright,track suit
+538,male,casual,warm,light,t-shirt & jeans
+539,male,sport,cold,bright,track suit
+540,male,wedding,warm,neutral,formal suit
+541,male,party,cold,dark,shirt & jeans
+542,male,party,warm,dark,shirt & jeans
+543,male,party,hot,light,jacket & pants
+544,male,wedding,cool,dark,sherwani
+545,female,formal,cold,bright,blazer & skirt
+546,male,party,cool,dark,shirt & jeans
+547,male,formal,cool,bright,suit
+548,female,party,cold,dark,party dress
+549,female,party,cold,bright,gown
+550,female,sport,cold,light,track suit
+551,female,wedding,hot,neutral,saree
+552,female,sport,warm,dark,sports bra & leggings
+553,male,party,cold,light,shirt & jeans
+554,male,party,cool,light,shirt & jeans
+555,female,sport,warm,dark,track suit
+556,female,wedding,hot,dark,lehenga
+557,female,party,cool,bright,party dress
+558,male,wedding,hot,bright,formal suit
+559,male,casual,cool,light,t-shirt & jeans
+560,male,casual,hot,light,shirt & shorts
+561,male,formal,hot,neutral,suit
+562,female,wedding,cool,bright,gown
+563,male,casual,hot,bright,polo & chinos
+564,female,sport,hot,dark,track suit
+565,female,party,cold,light,gown
+566,male,wedding,cold,neutral,kurta & churidar
+567,female,formal,warm,bright,formal dress
+568,female,wedding,hot,bright,saree
+569,male,party,cold,bright,printed shirt & chinos
+570,male,casual,hot,bright,t-shirt & jeans
+571,male,party,warm,neutral,jacket & pants
+572,female,wedding,warm,bright,saree
+573,female,wedding,cold,bright,gown
+574,male,wedding,hot,light,sherwani
+575,female,casual,cool,dark,kurti & leggings
+576,male,sport,warm,light,t-shirt & joggers
+577,female,sport,cool,light,sports bra & leggings
+578,male,formal,cool,light,shirt & trousers
+579,female,formal,warm,bright,formal dress
+580,female,party,warm,dark,gown
+581,female,formal,hot,light,blazer & skirt
+582,female,party,cold,light,top & jeans
+583,female,party,hot,light,party dress
+584,female,casual,hot,neutral,kurti & leggings
+585,male,wedding,warm,light,formal suit
+586,male,casual,hot,light,t-shirt & jeans
+587,female,wedding,cool,neutral,saree
+588,male,party,warm,neutral,shirt & jeans
+589,male,party,hot,light,printed shirt & chinos
+590,male,formal,cold,bright,shirt & trousers
+591,female,casual,warm,light,kurti & leggings
+592,female,wedding,hot,dark,gown
+593,female,casual,warm,dark,t-shirt & jeans
+594,female,sport,warm,neutral,t-shirt & shorts
+595,male,sport,cool,dark,jersey & shorts
+596,female,formal,cool,neutral,blazer & skirt
+597,male,party,cool,light,printed shirt & chinos
+598,female,formal,cool,neutral,shirt & trousers
+599,female,sport,hot,dark,t-shirt & shorts
+600,male,formal,cool,neutral,blazer & pants
+601,male,sport,cool,light,track suit
+602,female,sport,cold,light,sports bra & leggings
+603,male,formal,hot,neutral,suit
+604,female,wedding,cool,bright,gown
+605,female,party,cool,bright,top & jeans
+606,female,sport,hot,bright,t-shirt & shorts
+607,male,sport,cool,bright,jersey & shorts
+608,male,formal,hot,light,blazer & pants
+609,female,casual,hot,neutral,kurti & leggings
+610,female,party,warm,light,party dress
+611,female,sport,hot,bright,track suit
+612,male,casual,hot,bright,t-shirt & jeans
+613,male,casual,hot,light,t-shirt & jeans
+614,male,casual,hot,bright,polo & chinos
+615,female,party,warm,neutral,top & jeans
+616,female,party,hot,bright,gown
+617,female,sport,cool,bright,t-shirt & shorts
+618,male,formal,cold,bright,blazer & pants
+619,female,sport,cool,dark,t-shirt & shorts
+620,female,wedding,warm,dark,saree
+621,male,formal,hot,bright,suit
+622,female,wedding,cool,dark,lehenga
+623,female,formal,hot,light,blazer & skirt
+624,female,sport,cold,neutral,sports bra & leggings
+625,female,casual,hot,neutral,kurti & leggings
+626,male,casual,cool,bright,t-shirt & jeans
+627,female,casual,hot,bright,kurti & leggings
+628,male,formal,cool,bright,blazer & pants
+629,female,formal,cold,light,blazer & skirt
+630,female,party,warm,light,party dress
+631,male,sport,cold,light,track suit
+632,male,formal,cool,dark,shirt & trousers
+633,male,formal,cold,dark,shirt & trousers
+634,male,formal,hot,light,shirt & trousers
+635,female,sport,cool,light,track suit
+636,female,wedding,hot,neutral,lehenga
+637,female,wedding,cool,neutral,lehenga
+638,female,wedding,hot,dark,saree
+639,female,sport,warm,light,track suit
+640,female,wedding,cold,neutral,gown
+641,male,party,cool,neutral,printed shirt & chinos
+642,male,party,warm,dark,printed shirt & chinos
+643,male,sport,cool,neutral,t-shirt & joggers
+644,male,party,cold,bright,shirt & jeans
+645,male,casual,hot,light,t-shirt & jeans
+646,female,formal,cool,neutral,shirt & trousers
+647,male,wedding,hot,dark,sherwani
+648,female,sport,cool,dark,sports bra & leggings
+649,male,formal,warm,neutral,blazer & pants
+650,female,casual,hot,dark,top & skirt
+651,male,casual,warm,neutral,t-shirt & jeans
+652,female,sport,hot,neutral,t-shirt & shorts
+653,male,formal,cold,bright,suit
+654,female,sport,hot,neutral,track suit
+655,female,casual,cool,light,top & skirt
+656,male,party,cold,neutral,printed shirt & chinos
+657,male,casual,cold,dark,t-shirt & jeans
+658,female,casual,warm,bright,top & skirt
+659,male,party,cold,light,printed shirt & chinos
+660,male,sport,warm,bright,jersey & shorts
+661,female,sport,warm,light,t-shirt & shorts
+662,female,sport,cold,light,sports bra & leggings
+663,male,wedding,hot,bright,formal suit
+664,female,wedding,hot,bright,gown
+665,male,party,cool,light,printed shirt & chinos
+666,female,wedding,warm,bright,saree
+667,male,formal,cool,neutral,shirt & trousers
+668,female,formal,cold,dark,formal dress
+669,female,formal,hot,dark,formal dress
+670,female,formal,cold,neutral,blazer & skirt
+671,male,party,cool,neutral,jacket & pants
+672,male,party,hot,dark,shirt & jeans
+673,male,formal,warm,light,suit
+674,female,sport,cold,bright,sports bra & leggings
+675,male,formal,hot,dark,shirt & trousers
+676,male,casual,cool,neutral,polo & chinos
+677,male,party,hot,dark,jacket & pants
+678,male,sport,hot,dark,t-shirt & joggers
+679,female,casual,warm,bright,t-shirt & jeans
+680,female,casual,hot,bright,t-shirt & jeans
+681,female,casual,hot,neutral,t-shirt & jeans
+682,male,formal,hot,light,shirt & trousers
+683,female,formal,hot,neutral,blazer & skirt
+684,male,formal,hot,light,suit
+685,male,formal,hot,neutral,suit
+686,female,party,cool,bright,top & jeans
+687,male,sport,cool,dark,jersey & shorts
+688,male,party,warm,dark,jacket & pants
+689,male,sport,cold,bright,t-shirt & joggers
+690,female,wedding,warm,neutral,lehenga
+691,male,party,cold,bright,jacket & pants
+692,female,wedding,hot,neutral,gown
+693,male,party,hot,light,shirt & jeans
+694,male,party,cold,bright,jacket & pants
+695,female,formal,warm,light,blazer & skirt
+696,female,wedding,hot,dark,gown
+697,male,formal,hot,dark,shirt & trousers
+698,male,party,cold,neutral,shirt & jeans
+699,male,sport,cool,neutral,t-shirt & joggers
+700,male,formal,cold,dark,shirt & trousers
+701,female,casual,cool,dark,top & skirt
+702,female,casual,warm,bright,kurti & leggings
+703,female,formal,warm,dark,formal dress
+704,female,sport,cool,bright,sports bra & leggings
+705,female,sport,warm,light,sports bra & leggings
+706,female,sport,warm,bright,track suit
+707,male,formal,cold,bright,shirt & trousers
+708,female,wedding,hot,bright,saree
+709,female,wedding,hot,bright,lehenga
+710,female,formal,cool,dark,shirt & trousers
+711,male,casual,warm,light,shirt & shorts
+712,female,party,cool,bright,gown
+713,female,formal,warm,light,blazer & skirt
+714,female,wedding,cold,neutral,lehenga
+715,male,sport,warm,dark,track suit
+716,male,formal,cool,light,shirt & trousers
+717,female,wedding,warm,neutral,saree
+718,male,wedding,warm,bright,sherwani
+719,male,sport,cold,dark,track suit
+720,female,formal,hot,neutral,shirt & trousers
+721,female,formal,cool,neutral,shirt & trousers
+722,female,sport,warm,light,track suit
+723,male,wedding,hot,bright,kurta & churidar
+724,female,wedding,hot,dark,saree
+725,female,formal,cold,neutral,formal dress
+726,female,wedding,cold,bright,lehenga
+727,male,formal,cool,neutral,shirt & trousers
+728,male,sport,cold,dark,t-shirt & joggers
+729,male,party,cool,bright,shirt & jeans
+730,male,party,cold,bright,jacket & pants
+731,female,formal,cool,bright,formal dress
+732,male,wedding,hot,bright,kurta & churidar
+733,female,sport,cool,bright,track suit
+734,male,party,hot,light,shirt & jeans
+735,male,formal,warm,dark,suit
+736,female,casual,cool,light,kurti & leggings
+737,male,wedding,hot,light,sherwani
+738,male,wedding,cool,dark,formal suit
+739,male,formal,cool,dark,suit
+740,male,wedding,warm,bright,kurta & churidar
+741,male,formal,hot,bright,blazer & pants
+742,male,casual,cool,light,shirt & shorts
+743,male,wedding,hot,bright,kurta & churidar
+744,male,wedding,cool,bright,formal suit
+745,male,casual,cold,light,shirt & shorts
+746,male,formal,hot,dark,suit
+747,female,formal,cold,neutral,formal dress
+748,female,party,warm,light,party dress
+749,female,party,hot,dark,top & jeans
+750,male,sport,cool,neutral,track suit
+751,male,formal,cool,neutral,shirt & trousers
+752,female,party,cool,bright,gown
+753,male,sport,cold,bright,track suit
+754,male,party,warm,light,shirt & jeans
+755,male,party,cold,neutral,jacket & pants
+756,female,wedding,warm,light,gown
+757,male,sport,warm,dark,t-shirt & joggers
+758,female,sport,cold,dark,t-shirt & shorts
+759,female,party,cool,neutral,gown
+760,female,sport,warm,dark,sports bra & leggings
+761,female,sport,cool,light,sports bra & leggings
+762,male,sport,cold,light,jersey & shorts
+763,male,casual,cool,bright,shirt & shorts
+764,female,casual,warm,light,t-shirt & jeans
+765,female,casual,cold,bright,kurti & leggings
+766,male,formal,hot,light,suit
+767,male,formal,cool,dark,shirt & trousers
+768,male,casual,cold,light,shirt & shorts
+769,male,formal,warm,light,shirt & trousers
+770,female,formal,cool,neutral,shirt & trousers
+771,male,casual,hot,bright,polo & chinos
+772,female,wedding,hot,dark,saree
+773,female,wedding,warm,neutral,lehenga
+774,female,party,hot,dark,party dress
+775,male,party,hot,bright,shirt & jeans
+776,female,sport,hot,neutral,sports bra & leggings
+777,female,formal,cool,dark,formal dress
+778,male,sport,cool,light,jersey & shorts
+779,male,wedding,cool,neutral,formal suit
+780,female,formal,warm,dark,blazer & skirt
+781,female,party,cool,neutral,gown
+782,female,party,hot,neutral,top & jeans
+783,male,party,hot,bright,jacket & pants
+784,female,formal,warm,dark,blazer & skirt
+785,female,wedding,hot,dark,saree
+786,male,sport,cool,bright,jersey & shorts
+787,female,sport,warm,neutral,sports bra & leggings
+788,male,party,cold,bright,shirt & jeans
+789,male,formal,cold,light,shirt & trousers
+790,female,formal,cold,dark,formal dress
+791,male,wedding,warm,bright,sherwani
+792,male,wedding,cool,neutral,sherwani
+793,male,sport,warm,light,jersey & shorts
+794,male,formal,hot,neutral,blazer & pants
+795,male,casual,cold,bright,polo & chinos
+796,female,casual,cool,light,t-shirt & jeans
+797,male,party,cool,dark,jacket & pants
+798,male,casual,cool,bright,t-shirt & jeans
+799,female,casual,cool,light,kurti & leggings
+800,female,casual,warm,dark,top & skirt
+801,male,sport,cold,neutral,track suit
+802,female,sport,cold,dark,t-shirt & shorts
+803,male,formal,warm,neutral,suit
+804,male,formal,warm,neutral,shirt & trousers
+805,female,wedding,cool,bright,gown
+806,male,casual,hot,light,polo & chinos
+807,female,casual,hot,dark,top & skirt
+808,male,party,hot,neutral,printed shirt & chinos
+809,female,party,hot,neutral,gown
+810,female,wedding,cool,dark,saree
+811,male,casual,hot,light,shirt & shorts
+812,male,wedding,warm,dark,formal suit
+813,male,casual,cool,dark,t-shirt & jeans
+814,female,sport,hot,dark,sports bra & leggings
+815,male,casual,cold,light,polo & chinos
+816,male,formal,warm,light,suit
+817,female,formal,warm,dark,shirt & trousers
+818,male,party,warm,light,printed shirt & chinos
+819,male,formal,cold,bright,blazer & pants
+820,female,wedding,warm,neutral,gown
+821,female,formal,cold,light,shirt & trousers
+822,female,formal,cold,neutral,formal dress
+823,male,party,cold,light,jacket & pants
+824,female,party,hot,neutral,gown
+825,female,party,hot,dark,top & jeans
+826,female,casual,warm,neutral,t-shirt & jeans
+827,female,formal,hot,neutral,formal dress
+828,male,party,hot,bright,shirt & jeans
+829,female,casual,cool,dark,top & skirt
+830,female,formal,cold,neutral,formal dress
+831,male,sport,cold,dark,t-shirt & joggers
+832,male,sport,hot,dark,jersey & shorts
+833,female,formal,cold,bright,blazer & skirt
+834,female,casual,warm,bright,t-shirt & jeans
+835,female,wedding,hot,bright,lehenga
+836,male,party,warm,light,printed shirt & chinos
+837,female,sport,warm,dark,sports bra & leggings
+838,female,party,warm,bright,gown
+839,female,party,cold,bright,top & jeans
+840,female,wedding,cold,neutral,gown
+841,female,party,cool,light,party dress
+842,female,formal,warm,light,blazer & skirt
+843,male,sport,cool,neutral,jersey & shorts
+844,male,sport,cool,bright,t-shirt & joggers
+845,male,sport,cold,light,jersey & shorts
+846,female,wedding,cold,bright,saree
+847,male,formal,warm,light,suit
+848,male,sport,hot,bright,jersey & shorts
+849,female,casual,cold,bright,top & skirt
+850,male,party,hot,dark,printed shirt & chinos
+851,female,wedding,hot,neutral,gown
+852,male,formal,hot,dark,blazer & pants
+853,female,formal,hot,bright,blazer & skirt
+854,male,formal,warm,bright,suit
+855,male,sport,warm,neutral,t-shirt & joggers
+856,male,sport,hot,light,jersey & shorts
+857,male,wedding,warm,bright,sherwani
+858,female,sport,warm,light,track suit
+859,male,wedding,hot,neutral,kurta & churidar
+860,female,sport,cool,dark,sports bra & leggings
+861,female,formal,hot,light,shirt & trousers
+862,male,wedding,warm,dark,kurta & churidar
+863,female,formal,cold,light,shirt & trousers
+864,female,casual,cool,light,kurti & leggings
+865,male,formal,cool,dark,suit
+866,male,party,warm,dark,printed shirt & chinos
+867,male,casual,hot,dark,polo & chinos
+868,male,formal,cool,light,shirt & trousers
+869,female,casual,hot,light,t-shirt & jeans
+870,female,party,warm,dark,top & jeans
+871,male,party,cool,dark,printed shirt & chinos
+872,male,wedding,hot,dark,formal suit
+873,female,sport,warm,light,sports bra & leggings
+874,male,casual,cold,dark,shirt & shorts
+875,male,sport,warm,dark,jersey & shorts
+876,male,sport,cold,neutral,track suit
+877,male,sport,warm,bright,t-shirt & joggers
+878,female,wedding,cold,bright,gown
+879,female,sport,cool,bright,t-shirt & shorts
+880,male,casual,hot,neutral,t-shirt & jeans
+881,female,casual,hot,light,t-shirt & jeans
+882,male,party,cool,bright,printed shirt & chinos
+883,male,casual,cool,dark,shirt & shorts
+884,female,party,hot,neutral,gown
+885,male,party,cool,bright,jacket & pants
+886,male,party,cold,bright,printed shirt & chinos
+887,male,casual,hot,bright,t-shirt & jeans
+888,female,party,hot,neutral,party dress
+889,male,sport,warm,dark,t-shirt & joggers
+890,female,sport,warm,light,t-shirt & shorts
+891,female,party,warm,light,top & jeans
+892,male,party,hot,neutral,shirt & jeans
+893,female,party,hot,dark,party dress
+894,male,wedding,warm,bright,sherwani
+895,female,formal,warm,bright,blazer & skirt
+896,male,sport,cold,bright,jersey & shorts
+897,male,formal,warm,bright,suit
+898,male,wedding,cool,light,kurta & churidar
+899,female,wedding,cold,light,lehenga
+900,female,casual,cool,bright,t-shirt & jeans
+901,male,casual,cold,bright,polo & chinos
+902,male,formal,hot,light,suit
+903,male,casual,cold,light,shirt & shorts
+904,male,party,cool,bright,jacket & pants
+905,male,wedding,warm,bright,formal suit
+906,male,wedding,cold,bright,formal suit
+907,male,party,cold,dark,shirt & jeans
+908,female,wedding,warm,dark,saree
+909,male,wedding,cool,light,sherwani
+910,female,casual,cool,dark,top & skirt
+911,female,party,cold,neutral,top & jeans
+912,male,party,cool,neutral,jacket & pants
+913,female,party,warm,neutral,gown
+914,female,formal,hot,neutral,blazer & skirt
+915,female,sport,cold,light,sports bra & leggings
+916,male,wedding,cool,neutral,kurta & churidar
+917,female,formal,cool,dark,formal dress
+918,male,casual,cold,neutral,shirt & shorts
+919,male,casual,warm,light,polo & chinos
+920,male,formal,cool,dark,suit
+921,female,sport,cold,bright,track suit
+922,male,wedding,hot,bright,sherwani
+923,male,formal,warm,light,suit
+924,female,casual,hot,light,kurti & leggings
+925,female,sport,cold,neutral,sports bra & leggings
+926,male,sport,cold,bright,t-shirt & joggers
+927,male,casual,hot,neutral,t-shirt & jeans
+928,female,casual,cool,neutral,top & skirt
+929,female,party,cool,neutral,top & jeans
+930,female,casual,cold,neutral,t-shirt & jeans
+931,female,formal,cold,light,formal dress
+932,female,formal,warm,dark,shirt & trousers
+933,male,sport,cold,light,jersey & shorts
+934,female,formal,hot,dark,blazer & skirt
+935,male,casual,hot,neutral,shirt & shorts
+936,female,party,cold,dark,top & jeans
+937,male,formal,warm,bright,suit
+938,female,casual,cool,light,kurti & leggings
+939,male,wedding,hot,light,sherwani
+940,female,formal,warm,neutral,formal dress
+941,female,sport,hot,neutral,track suit
+942,female,party,hot,dark,gown
+943,female,formal,cold,light,shirt & trousers
+944,female,sport,warm,light,sports bra & leggings
+945,female,wedding,cool,neutral,lehenga
+946,male,formal,cold,neutral,suit
+947,female,formal,cool,light,shirt & trousers
+948,male,formal,cool,neutral,shirt & trousers
+949,female,wedding,warm,dark,saree
+950,male,casual,cool,bright,shirt & shorts
+951,male,casual,cool,neutral,polo & chinos
+952,female,sport,hot,dark,t-shirt & shorts
+953,male,wedding,warm,neutral,formal suit
+954,male,wedding,cool,light,kurta & churidar
+955,male,wedding,warm,dark,kurta & churidar
+956,male,party,warm,light,shirt & jeans
+957,female,casual,hot,neutral,kurti & leggings
+958,female,sport,warm,neutral,t-shirt & shorts
+959,female,casual,cold,dark,t-shirt & jeans
+960,female,wedding,hot,light,saree
+961,female,casual,hot,neutral,top & skirt
+962,female,party,hot,light,party dress
+963,female,casual,cool,neutral,t-shirt & jeans
+964,female,formal,cool,bright,blazer & skirt
+965,female,casual,cold,neutral,kurti & leggings
+966,female,casual,cool,neutral,t-shirt & jeans
+967,female,formal,cool,light,formal dress
+968,female,casual,hot,neutral,top & skirt
+969,male,casual,cold,neutral,polo & chinos
+970,male,formal,hot,dark,suit
+971,male,wedding,hot,bright,sherwani
+972,female,party,cool,dark,top & jeans
+973,male,party,hot,bright,printed shirt & chinos
+974,male,party,hot,light,jacket & pants
+975,female,formal,cold,light,shirt & trousers
+976,male,wedding,cold,dark,formal suit
+977,male,party,cold,light,printed shirt & chinos
+978,female,party,hot,dark,party dress
+979,male,wedding,warm,dark,kurta & churidar
+980,male,wedding,hot,dark,sherwani
+981,male,wedding,warm,neutral,formal suit
+982,female,casual,cool,bright,t-shirt & jeans
+983,male,formal,hot,bright,blazer & pants
+984,female,formal,hot,dark,shirt & trousers
+985,male,casual,hot,dark,polo & chinos
+986,male,formal,warm,dark,shirt & trousers
+987,female,formal,warm,light,formal dress
+988,female,casual,hot,light,kurti & leggings
+989,male,party,hot,bright,jacket & pants
+990,female,wedding,cold,light,lehenga
+991,male,formal,hot,bright,shirt & trousers
+992,female,party,warm,neutral,party dress
+993,male,sport,hot,neutral,track suit
+994,female,sport,warm,dark,t-shirt & shorts
+995,male,party,cold,dark,jacket & pants
+996,male,formal,cold,light,blazer & pants
+997,male,formal,cold,neutral,suit
+998,female,formal,warm,bright,shirt & trousers
+999,male,sport,cold,light,jersey & shorts
+1000,female,formal,cold,bright,shirt & trousers
